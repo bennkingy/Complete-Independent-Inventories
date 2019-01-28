@@ -241,10 +241,6 @@ textarea {
         color: #4a2663;
     }
 
-    .navbar-nav > li:last-child > a {
-        padding-right: 0;
-    }
-
     .navbar-nav > li.active:last-child > a {
         padding-right: 18px;
     }
@@ -2301,3 +2297,14 @@ address {
 .skins-wrapper .list-inline > li .color-skin.active, .skins-wrapper .list-inline > li .color-skin:hover {
     outline: 2px solid #4a2663;
 }
+
+
+/* Overrides */
+.footer-brand > span {
+    color: white !important;
+    margin-left: 7px;
+}
+.icon-mobile-phone:before {
+    transform: scale(1.3);
+}
+#footer-1 > div > div > div:nth-child(3) > div {overflow:visible;}
