@@ -131,7 +131,7 @@ include_once('assets/partials/header.php');
             <div class="col-xs-12 col-sm-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
-                    <i class="icon-laptop"></i>
+                    <i class="icon-file-text"></i>
                     </span>
                     <h4>Inventories</h4>
                     <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
@@ -141,7 +141,7 @@ include_once('assets/partials/header.php');
             <div class="col-xs-12 col-sm-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
-                    <i class="icon-code"></i>
+                    <i class="icon-foursquare"></i>
                     </span>
                     <h4>Tenant Check In</h4>
                     <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
@@ -151,7 +151,7 @@ include_once('assets/partials/header.php');
             <div class="col-xs-12 col-sm-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
-                    <i class="icon-cog"></i>
+                    <i class="icon-long-arrow-right"></i>
                     </span>
                     <h4>Check Out Report</h4>
                     <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
@@ -161,7 +161,7 @@ include_once('assets/partials/header.php');
             <div class="col-xs-12 col-sm-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
-                    <i class="icon-font"></i>
+                    <i class="icon-bullseye"></i>
                     </span>
                     <h4>Interim Inspections</h4>
                     <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
