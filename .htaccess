@@ -1,4 +1,1 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} completeindependentinventories\.co\.uk [NC]
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://www.completeindependentinventories.co.uk/$1 [R,L]
+
