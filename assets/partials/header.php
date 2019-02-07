@@ -32,7 +32,7 @@
             <header id="header-1" class="header">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xs-12 col-sm-8 header-info-wrapper">
+                        <div class="col-xs-10 col-sm-8 header-info-wrapper">
                             <ul class="list-inline">
                                 <li><i class="icon-mobile-phone"></i> (07) 951 894 098</li>
                                 <li><i class="icon-envelope"></i> <a href="mailto:completeinventories@live.co.uk">completeinventories@live.co.uk</a></li>
@@ -40,7 +40,7 @@
                             <!-- /.list-inline -->
                         </div>
                         <!-- /.header-info-wrapper -->
-                        <div class="col-xs-12 col-sm-4 social-link-wrapper">
+                        <div class="col-xs-2 col-sm-4 social-link-wrapper">
                             <ul class="social-links">
                                 <li><a href="#"><i class="icon-facebook"></i></a></li>
                             </ul>

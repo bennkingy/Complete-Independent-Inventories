@@ -2,7 +2,7 @@
 <section id="our-clients" class="section">
     <div class="container wrapper-1">
         <h5 class="subpage-title">
-            <span>Our Clients</span>
+            <span>Our Partners</span>
             <!-- Controls -->
             <span id="client-next" class="next"><i class="icon-angle-right"></i></span>
             <span id="client-prev" class="prev"><i class="icon-angle-left"></i></span>
@@ -10,27 +10,27 @@
         <div class="row">
             <div id="caroufredsel-clients-container">
                 <div class="col-xs-12 col-sm-4 col-md-3 client-wrapper">
-                    <a href="#"><img class="img-responsive" src="assets/img/clients/photo (1).jpg" alt="Client Image"></a>
+                    <a href="#"><img class="img-responsive" src="assets/img/clients/rsk-estate-agents-inventories.jpg" alt="Independent Inventories"></a>
                 </div>
                 <!-- /.client-wrapper -->
                 <div class="col-xs-12 col-sm-4 col-md-3 client-wrapper">
-                    <a href="#"><img class="img-responsive" src="assets/img/clients/photo (2).jpg" alt="Client Image"></a>
+                    <a href="#"><img class="img-responsive" src="assets/img/clients/tiffin-estate-agents-inventories.jpg" alt="Independent Inventories"></a>
                 </div>
                 <!-- /.client-wrapper -->
                 <div class="col-xs-12 col-sm-4 col-md-3 client-wrapper">
-                    <a href="#"><img class="img-responsive" src="assets/img/clients/photo (3).jpg" alt="Client Image"></a>
+                    <a href="#"><img class="img-responsive" src="assets/img/clients/dexters-estate-agents-inventories.jpg" alt="Independent Inventories"></a>
                 </div>
                 <!-- /.client-wrapper -->
                 <div class="col-xs-12 col-sm-4 col-md-3 client-wrapper">
-                    <a href="#"><img class="img-responsive" src="assets/img/clients/photo (4).jpg" alt="Client Image"></a>
+                    <a href="#"><img class="img-responsive" src="assets/img/clients/fletchers-estate-agents-inventories.jpg" alt="Independent Inventories"></a>
                 </div>
                 <!-- /.client-wrapper -->
                 <div class="col-xs-12 col-sm-4 col-md-3 client-wrapper">
-                    <a href="#"><img class="img-responsive" src="assets/img/clients/photo (5).jpg" alt="Client Image"></a>
+                    <a href="#"><img class="img-responsive" src="assets/img/clients/new-boulds-and-co-estate-agents-inventories.jpg" alt="Independent Inventories"></a>
                 </div>
                 <!-- /.client-wrapper -->
                 <div class="col-xs-12 col-sm-4 col-md-3 client-wrapper">
-                    <a href="#"><img class="img-responsive" src="assets/img/clients/photo (6).jpg" alt="Client Image"></a>
+                    <a href="#"><img class="img-responsive" src="assets/img/clients/snellers-estate-agents-inventories.jpg" alt="Independent Inventories"></a>
                 </div>
                 <!-- /.client-wrapper -->
             </div>
@@ -268,7 +268,7 @@ var caroufredsel = function () {
         prev: '#client-prev',
         next: '#client-next',
         auto: {
-            play: false
+            play: true
         }
     });
 };
