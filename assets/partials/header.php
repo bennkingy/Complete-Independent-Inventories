@@ -67,7 +67,7 @@
                             <span class="icon-bar"></span>
                             </button>
                             <a class="navbar-brand" href="index.php">
-                                <img src="assets/img/logo/complete-logo-white.png" class="img-responsive" alt="">
+                                <img src="http://www.completeindependentinventories.co.uk/assets/img/Logo/complete-logo-white.png" class="img-responsive" alt="">
                             </a>
                         </div>
                         <!-- Collect the nav links, forms, and other content for toggling -->
