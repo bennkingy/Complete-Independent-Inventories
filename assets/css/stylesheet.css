@@ -2,7 +2,7 @@
  * -------------------------- */
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     color: #95a5a6;
 }
 
@@ -161,8 +161,8 @@ textarea {
 
     .navbar-nav {
         margin: 0 -15px;
-        padding-top: 15px;
-        padding-bottom: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
         background-color: #34495e;
     }
 
@@ -1137,6 +1137,10 @@ textarea {
     color: #4a2663;
 }
 
+.white-text {
+    color: #fff;
+}
+
 /* ToTop
  * -------------------------- */
 #toTop {
@@ -1211,6 +1215,7 @@ textarea {
  * -------------------------- */
 .section {
     padding: 50px 0;
+    
 }
 
 /* Services
@@ -2014,6 +2019,7 @@ a.comment-reply, .comment-date {
  * -------------------------- */
 .google-map {
     padding: 0;
+    margin-top: 0 !important;
 }
 .google-map-2 {
     padding-top: 70px;
@@ -2295,14 +2301,25 @@ address {
     outline: 2px solid #4a2663;
 }
 
+/*facebook icon*/
+
+.social-links .icon-facebook {
+    text-decoration: none;
+}
+
 
 /* Overrides */
 .footer-brand > span {
-    color: white !important;
+    color:#fff !important ;
     margin-left: 7px;
 }
 .icon-mobile-phone:before {
     transform: scale(1.3);
+    margin-right: 10px;
+}
+.icon-envelope:before {
+    margin-right: 10px;
+    
 }
 #footer-1 > div > div > div:nth-child(3) > div {
     overflow: visible;
@@ -2332,11 +2349,6 @@ address {
         font-size: 17px;
     }  
 
-    .navbar-default .navbar-brand {
-        margin-top: -10px;
-        font-size: 17px;
-    }
-
     .client-wrapper a {
         display: block;
         filter: grayscale(0%);
@@ -2350,22 +2362,99 @@ address {
         margin-top: 8px;
     }
 
+}
+
+@media(max-width: 768px) {
+
+.section {
+    padding: 1px;
+    margin-top: 10px;
+         }
+        }
+
+
+.ltd{
+            font-size: 10px;
+            display: inline-block;
+            margin-top: -20px;
+            -webkit-transform: translateY(-10px);
+                -ms-transform: translateY(-10px);
+                    transform: translateY(-10px);
+            margin-left: 6px;
+        }
+
+
+#short-intro{
+    margin-top: 0;
+}
+
+
+.carousel-inner > .item > img {
+    min-width: 100% !important;
+}
+
+@media(min-width:992px) {
+	#contact-us {
+		margin-bottom:-50px;
+	}
+}
+
+#our-services {
+	margin-top: 0 !important;
+}
+
+@media(min-width:768px) and (max-width: 991px) {
+	#our-services {
+        margin-top: 80px !important;
+        
+	}
+}
+
+#bannercontainer .btn {
+	display: none;
+}
+
+@media(max-width:991px){
+     a.navbar-brand {
+        max-width: 400px;
+        transform: translateY(4px);
+     }
+}
+
+@media(min-width:992px){
+       a.navbar-brand {
+        transform: translateY(2px);
+
+     }
+
+}
+@media(max-width:767px){
+    a.navbar-brand {
+        transform: translateY(-7px);
+    }
+    .navbar-toggle {
+        margin-top: 24px;
+    }
     #header-1 .list-inline {
         font-size: 10px;
     }
-
 }
 
-@media(max-width: 405px)    {
+@media(max-width:456px){
+    a.navbar-brand {
+        max-width: 300px;
+     }
+}
 
-    .navbar-default .navbar-brand {
-        margin-top: -10px;
-        font-size: 15px;
-    }
-
-
-    .social-links {
-        margin-top: -2px;
+@media(max-width:356px){
+    a.navbar-brand {
+        max-width: 271px;
     }
 }
 
+@media(min-width:484px){
+
+#our-services .service-icon {
+    margin-bottom: 48PX;
+    }
+}

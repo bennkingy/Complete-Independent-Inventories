@@ -1,4 +1,5 @@
 <?php
+$page = 'index';
 include_once('assets/partials/header.php');
 ?>
 <!-- /#header-2 -->
@@ -128,43 +129,66 @@ include_once('assets/partials/header.php');
 <section id="our-services" class="section colored-wrapper">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-6 wrapper-1">
+            <div class="col-xs-12 col-md-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
                     <i class="icon-file-text"></i>
                     </span>
                     <h4>Inventories</h4>
-                    <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
+                    <p>This is a professional up to date detailed inventory report of the
+                       condition of the furnishings, fixtures &
+                       fixings of the property, including, walls, woodwork, flooring, carpets,
+                       glazing, lights & fittings, bathroom
+                       & kitchens, radiators, gardens & sheds & outbuildings. photos are
+                       attached to the inventory report.
+                   </p>
                 </div>
             </div>
             <!-- /.col-sm-6 -->
-            <div class="col-xs-12 col-sm-6 wrapper-1">
+            <div class="col-xs-12 col-md-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
                     <i class="icon-foursquare"></i>
                     </span>
                     <h4>Tenant Check In</h4>
-                    <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
+                    <p>A check in compares the original inventory against the contents &
+                       condition on the day the tenancy
+                       starts at check in, we will produce a detailed check in report including the condition of cleaning
+                       & meters & keys & photos, tenants will agree the check in & sign
+                       the check in summary report.
+                       photos will be attached.
+                    </p>
                 </div>
             </div>
             <!-- /.col-sm-6 -->
-            <div class="col-xs-12 col-sm-6 wrapper-1">
+            <div class="col-xs-12 col-md-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
                     <i class="icon-long-arrow-right"></i>
                     </span>
                     <h4>Check Out Report</h4>
-                    <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
+                    <p>At the end of tenancy a full check out report will be completed &
+                       both the original inventory & check in
+                       will be used together, meter readings will be take & keys collected   
+                       & returned back to the agent, 
+                       a full check out report will be compiled including any recommended
+                       costs to the ten                
+                    </p>
                 </div>
             </div>
             <!-- /.col-sm-6 -->
-            <div class="col-xs-12 col-sm-6 wrapper-1">
+            <div class="col-xs-12 col-md-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
                     <i class="icon-bullseye"></i>
                     </span>
                     <h4>Interim Inspections</h4>
-                    <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
+                    <p>Property inspections are carried out on request at properties, for
+                       landlords & agents
+                       a report will be sent to the agent or landlord with findings & photos
+                       & maintenance
+                       issues recommended.
+                    </p>
                 </div>
             </div>
         </div>

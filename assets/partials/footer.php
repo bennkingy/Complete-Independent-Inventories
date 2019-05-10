@@ -46,8 +46,10 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="widget about-us">
-                    <span class="footer-brand">Complete<span>Independent Inventories.</span></span>
-                    <p>Lorem ipsum dolor sit amet, no consequat ullamcorper nec, te commune constituto intellegebat eam. Soleat populo id nec. Est in altera vocibus, et vim iudico adolescens, mel no discere mediocritatem. Nec ei sale honestatis, graeco melius eruditi qui et, id nam mucius maiorum. Pri diceret ornatus cu, dico quas aliquando vix ea, vix impetus invidunt honestatis id. An his everti animal.</p>
+                    <span class="footer-brand">Complete<span>Independent Inventories <span class="ltd" style=" color: #fff">LTD</span></span></span>
+                    <p class="white-text">We are a professional independent inventory company with 15 years experience within the industry sector,
+                       and over 30 years within the letting industry, we work closely with several local companies & private landlords
+                    & cover all local work within a 30 mile radius including central london.    </p>
                 </div>
                 <!-- /.about-us -->
             </div>                
@@ -71,8 +73,8 @@
                 <div class="widget flickr-photos">
                     <h5 class="subpage-title">Contact</h5>
                     <ul class="list-inline" style="color:white !important;">
-                                <li><i class="icon-mobile-phone"></i> (07) 951 894 098</li>
-                                <li><i class="icon-envelope"></i> <a href="mailto:completeinventories@live.co.uk">completeinventories@live.co.uk</a></li>
+                                <li><i class="icon-mobile-phone"></i> <a href="tel:07951 894 098">Call (07) 951 894 098</a></li>
+                                <li style="WHITE-SPACE:pre"><i class="icon-envelope"></i> <a href="mailto:completeinventories@live.co.uk">completeinventories@live.co.uk</a></li>
                             </ul>
                 </div>
                 <!-- /.flickr-photos -->
