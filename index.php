@@ -79,7 +79,7 @@ include_once('assets/partials/header.php');
                     data-y="90"
                     data-speed="300"
                     data-start="2000"
-                    data-easing="easeOutExpo"><iframe src="http://player.vimeo.com/video/25708134?title=0&amp;byline=0&amp;portrait=0" width="460" height="259"></iframe></div>
+                    data-easing="easeOutExpo"><iframe src="https://player.vimeo.com/video/25708134?title=0&amp;byline=0&amp;portrait=0" width="460" height="259"></iframe></div>
             </li>
             THE 3RD SLIDE
             <li data-transition="boxslide" data-slotamount="10" data-masterspeed="300">
