@@ -2438,6 +2438,9 @@ address {
     #header-1 .list-inline {
         font-size: 10px;
     }
+    .footer-brand {
+        font-size: 20px;
+    }
 }
 
 @media(max-width:456px){
