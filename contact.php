@@ -69,8 +69,8 @@ include_once('assets/partials/header.php');
 ?>
 
 <section id="google-map" class="section google-map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40040.94874080501!2d0.8362617116033941!3d51.153477521987796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dec322dc36f387%3A0x280d4f34618ec61e!2sAshford!5e0!3m2!1sen!2suk!4v1539111795875" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
-</section>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.6219688472834!2d-0.45313358418812055!3d51.42837057962212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876740a470b190f%3A0x4407c5f911a6d841!2sFeltham+Hill+Rd%2C+Ashford+TW15+1HE!5e0!3m2!1sen!2suk!4v1557943005957!5m2!1sen!2suk" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+	</section>
 <!-- /#google-map -->
 <section id="contact-us" class="section contact-us">
 <div class="container">
@@ -79,9 +79,8 @@ include_once('assets/partials/header.php');
         
         <h5 class="subpage-title"><i class="icon-phone"></i> Contact</h5>
         <address>
-        Phone:(07) 951 894 098<br>
-            
-            <a href="mailto:completeinventories@live.co.uk">completeinventories@live.co.uk</a>
+			Phone: (07) 951 894 098<br>
+			<a href="mailto:completeinventories@live.co.uk">completeinventories@live.co.uk</a>
         </address>
     </div>
     <div class="col-md-8 wrapper-1">

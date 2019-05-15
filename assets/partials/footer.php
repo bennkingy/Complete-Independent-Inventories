@@ -61,7 +61,7 @@
                         <li><a href="#">Ashford</a>  </li>
                         <li><a href="#">Inventories</a> </li>
                         <li><a href="#">Tenant Check Ins</a>  </li>
-                        <li><a href="#">Hounslow</a>  </li>
+                        <li><a href="#">London</a>  </li>
                         <li><a href="#">Interim Inspections</a>  </li>
                         <li><a href="#">Tenant Check Outs</a>  </li>
                     </ul>
