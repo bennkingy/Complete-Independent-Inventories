@@ -31,7 +31,7 @@ if(isset($_POST['submit'])){
 				$message = !empty($_POST['message'])?$_POST['message']:'';
 				
 				// Send email notification to the site admin
-				$to = 'completeinventories@live.co.uk';
+				$to = 'completeinventories@live.co.uk;bennkingy@gmail.com';
 				$subject = 'New contact form have been submitted';
 				$htmlContent = "
 					<h1>Contact request details</h1>
