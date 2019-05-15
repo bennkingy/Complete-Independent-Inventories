@@ -12,7 +12,7 @@ if(isset($_POST['submit'])){
 	$postData = $_POST;
 	
 	// Validate form fields
-	if(!empty($_POST['name']) && !empty($_POST['email']) && !empty($_POST['message'])){
+	if(!empty($_POST['name']) && !empty($_POST['email']) && !empty($_POST['message']) && !empty($_POST['phone'])){
 		
 		// Validate reCAPTCHA box
 		if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])){
@@ -27,6 +27,7 @@ if(isset($_POST['submit'])){
 			if($responseData->success){
 				// Posted form data
 				$name = !empty($_POST['name'])?$_POST['name']:'';
+				$phone = !empty($_POST['phone'])?$_POST['phone']:'';
 				$email = !empty($_POST['email'])?$_POST['email']:'';
 				$message = !empty($_POST['message'])?$_POST['message']:'';
 				
@@ -37,6 +38,7 @@ if(isset($_POST['submit'])){
 					<h1>Contact request details</h1>
 					<p><b>Name: </b>".$name."</p>
 					<p><b>Email: </b>".$email."</p>
+					<p><b>Phone: </b>".$phone."</p>
 					<p><b>Message: </b>".$message."</p>
 				";
 				
@@ -90,11 +92,14 @@ include_once('assets/partials/header.php');
            <h5 class="subpage-title">Get In Touch</h5>
 
 	         <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-4">
 			      <input class="form-control" type="text" name="name" value="<?php echo !empty($postData['name'])?$postData['name']:''; ?>" placeholder="Your name" required="" />
                 </div>  
-                <div class="col-md-6">
+                <div class="col-md-4">
 				  <input class="form-control"  type="email" name="email" value="<?php echo !empty($postData['email'])?$postData['email']:''; ?>" placeholder="Your email" required="" />
+				</div> 
+				<div class="col-md-4">
+				  <input class="form-control"  type="phone" name="phone" value="<?php echo !empty($postData['phone'])?$postData['phone']:''; ?>" placeholder="Your number" required="" />
                 </div> 
                 <div class="col-md-12">
 				  <textarea class="form-control" name="message" placeholder="Type message..." required="" ><?php echo !empty($postData['message'])?$postData['message']:''; ?></textarea>
