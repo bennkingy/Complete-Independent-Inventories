@@ -31,7 +31,7 @@ if(isset($_POST['submit'])){
 				$message = !empty($_POST['message'])?$_POST['message']:'';
 				
 				// Send email notification to the site admin
-				$to = 'admin@example.com';
+				$to = 'completeinventories@live.co.uk';
 				$subject = 'New contact form have been submitted';
 				$htmlContent = "
 					<h1>Contact request details</h1>
@@ -81,7 +81,7 @@ include_once('assets/partials/header.php');
         <address>
         Phone:(07) 951 894 098<br>
             
-            <a href="mailto:#">completeinventories@live.co.uk</a>
+            <a href="mailto:completeinventories@live.co.uk">completeinventories@live.co.uk</a>
         </address>
     </div>
     <div class="col-md-8 wrapper-1">
