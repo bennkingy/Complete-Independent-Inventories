@@ -37,7 +37,9 @@ include_once('assets/partials/header.php');
         </div>
         <div class="col-md-6 wrapper-1">
             <h5 class="subpage-title">Services</h5>
-            <p style="font-size: 14px; color: #4a2663">Cloakrooms, utiliy rooms, conservatories, garages, sheds, studies, etc, will incur an additional charge at check in/out of £10.00 per room unfurnished, and £15.00 furnished.Cloakrooms, utiliy rooms, conservatories, garages, sheds, studies, etc,will incur an additional charge at check in/out of £10.00 per room unfurnished, and £15.00 furnished. Sheds, studies, etc,will incur an additional charge at the ona check in/out of £10.00 per room unfurnished, and £15.00 furnished. utiliy rooms, conservatories, garages, sheds, studies.</p>
+            <p style="font-size: 14px; color: #4a2663">
+            We offer inventories, check outs & check ins including property inspections to agents & private landlords & tenants, if a tenant at check out disputes any deductions from there deposit & the matter goes to DPS or TDS to arbitrate,  without a inventory its unlikely that a landlord will be successful in obtaining full reimbursement, further without a inventory has no claim on any of the tenants deposit held.
+            </p>
         </div>
     </div>
 </div>
