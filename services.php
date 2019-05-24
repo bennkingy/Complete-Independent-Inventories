@@ -38,7 +38,7 @@ include_once('assets/partials/header.php');
         <div class="col-md-6 wrapper-1">
             <h5 class="subpage-title">Services</h5>
             <p style="font-size: 14px; color: #4a2663">
-            We offer inventories, check outs & check ins including property inspections to agents & private landlords & tenants, if a tenant at check out disputes any deductions from there deposit & the matter goes to DPS or TDS to arbitrate,  without a inventory its unlikely that a landlord will be successful in obtaining full reimbursement, further without a inventory has no claim on any of the tenants deposit held.
+            We offer Inventories, Check Outs, Check Ins and Property Inspections for Landlords and Agents. An Inventory is an unbiased legal document that can assist a Landlord to claim back any monies for damages against their property. If a tenant disputes any deductions that a Check Out report hi-lights and the matter goes to DPS or TDS for arbitration without an Inventory it's unlikely a Landlord has a claim on a tenants deposit nor would they be successful in obtaining reimbursement. 
             </p>
         </div>
     </div>

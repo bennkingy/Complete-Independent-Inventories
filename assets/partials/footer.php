@@ -47,9 +47,7 @@
             <div class="col-md-6">
                 <div class="widget about-us">
                     <h5 class="subpage-title">About</h5>
-                    <p class="white-text">We are a professional independent inventory company with 15 years experience within the industry sector,
-                       and over 30 years within the letting industry, we work closely with several local companies & private landlords
-                    & cover all local work within a 30 mile radius including central london.    </p>
+                    <p class="white-text">We are a professional independent inventory company with over 30 years experience within the Lettings industry. We work closely with several reputable companies and private landlords and offer a service to cover work within a 30 mile radius including Central London.</p>
                 </div>
                 <!-- /.about-us -->
             </div>                
