@@ -135,12 +135,7 @@ include_once('assets/partials/header.php');
                     <i class="icon-file-text"></i>
                     </span>
                     <h4>Inventories</h4>
-                    <p>This is a professional up to date detailed inventory report of the
-                       condition of the furnishings, fixtures &
-                       fixings of the property, including, walls, woodwork, flooring, carpets,
-                       glazing, lights & fittings, bathroom
-                       & kitchens, radiators, gardens & sheds & outbuildings. photos are
-                       attached to the inventory report.
+                    <p>This is a professional up to date detailed inventory report of the condition of the furnishings, fixtures & fixings of the property, including, walls, woodwork, flooring, carpets, glazing, lights & fittings, bathroom & kitchens, radiators, gardens & sheds & outbuildings. photos are attached to the inventory report.
                    </p>
                 </div>
             </div>
@@ -151,13 +146,7 @@ include_once('assets/partials/header.php');
                     <i class="icon-foursquare"></i>
                     </span>
                     <h4>Tenant Check In</h4>
-                    <p>A check in compares the original inventory against the contents &
-                       condition on the day the tenancy
-                       starts at check in, we will produce a detailed check in report including the condition of cleaning
-                       & meters & keys & photos, tenants will agree the check in & sign
-                       the check in summary report.
-                       photos will be attached.
-                    </p>
+                    <p>A check in compares the original inventory against the contents & condition on the day the tenancystarts at check in, we will produce a detailed check in report including the condition of cleaning & meters & keys & photos, tenants will agree the check in & sign the check in summary report. photos will be attached.</p>
                 </div>
             </div>
             <!-- /.col-sm-6 -->
@@ -167,13 +156,7 @@ include_once('assets/partials/header.php');
                     <i class="icon-long-arrow-right"></i>
                     </span>
                     <h4>Check Out Report</h4>
-                    <p>At the end of tenancy a full check out report will be completed &
-                       both the original inventory & check in
-                       will be used together, meter readings will be take & keys collected   
-                       & returned back to the agent, 
-                       a full check out report will be compiled including any recommended
-                       costs to the ten                
-                    </p>
+                    <p>At the end of tenancy a full check out report will be completed & both the original inventory & check in will be used together,  meter readings will be take & keys collected & returned back to the agent, a full check out report will be compiled including any recommended costs to the tenants. photos will be taken.</p>
                 </div>
             </div>
             <!-- /.col-sm-6 -->
@@ -183,12 +166,7 @@ include_once('assets/partials/header.php');
                     <i class="icon-bullseye"></i>
                     </span>
                     <h4>Interim Inspections</h4>
-                    <p>Property inspections are carried out on request at properties, for
-                       landlords & agents
-                       a report will be sent to the agent or landlord with findings & photos
-                       & maintenance
-                       issues recommended.
-                    </p>
+                    <p>Property inspections are carried out on request at properties, for landlords & agents a report will be sent to the agent or landlord with findings & photos & maintenance issues recommended.</p>
                 </div>
             </div>
         </div>
