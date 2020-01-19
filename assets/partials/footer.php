@@ -72,7 +72,7 @@
                     <h5 class="subpage-title">Contact</h5>
                     <ul class="list-inline" style="color:white !important;">
                                 <li><i class="icon-mobile-phone"></i> <a href="tel:07951 894 098">Call (07) 951 894 098</a></li>
-                                <li style="WHITE-SPACE:pre"><i class="icon-envelope"></i> <a href="mailto:completeinventories@live.co.uk">completeinventories@live.co.uk</a></li>
+                                <!-- <li style="WHITE-SPACE:pre"><i class="icon-envelope"></i> <a href="mailto:completeinventories@live.co.uk">completeinventories@live.co.uk</a></li> -->
                             </ul>
                 </div>
                 <!-- /.flickr-photos -->
